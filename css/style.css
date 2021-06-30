@@ -105,6 +105,7 @@ h1,
   color: #000;
 }
 
+
 h2,
 .h2{ 
   position: relative;
@@ -313,6 +314,7 @@ label.error{
   background-color:#D4F21B;
   font-weight: 700;
   border-width: 1px;
+  margin-bottom: 10px;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
 }
@@ -899,6 +901,8 @@ ion-icon{
   z-index: 10;
   top:0;
   box-shadow:0 0 30px rgba(0,0,0,0.1);
+  background: rgba(94, 1, 94, 0.795);
+
 }
 
 .navbar.fixed:before{
@@ -911,6 +915,7 @@ ion-icon{
 
 .navbar-white{
   border-bottom: 1px solid rgba(255,255,255,0.1);
+  background: rgba(94, 1, 94, 0.795);
 }
 
 .navbar-white:not(.fixed) .phone,
@@ -918,6 +923,7 @@ ion-icon{
 .navbar-white:not(.fixed) a,
 .navbar-white:not(.fixed) a:hover{
     color: #fff;
+    
 }
 
 .navbar-white:not(.fixed) .navbar-nav-desctop li a{
