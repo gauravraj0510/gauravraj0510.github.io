@@ -1412,9 +1412,19 @@ h1 + .line{
 
 .carousel-testimonials .owl-nav{
   position: static;
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
 
+.testimonial-pic{
+  width: 25%;
+}
+.carousel-testimonials{
+  background: rgb(82, 2, 82);
+  padding: 30px;
+  padding-bottom: 50px;
+  border-radius: 50px;
+  margin-top: 20px;
+}
 
 
 /* 3.9 Contact */
