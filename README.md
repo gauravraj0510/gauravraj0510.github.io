@@ -1,5 +1,5 @@
 # My Freelancing Portfolio
-- Portfolio Link: https://gauravraj0510.github.io/
+- Portfolio: https://gauravraj0510.github.io/
 
 ## Home 
 <a href="https://gauravraj0510.github.io/#home"><img src='Example/1.png'></a>
